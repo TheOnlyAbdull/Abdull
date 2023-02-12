@@ -452,6 +452,9 @@ footer .footer-text p .space{
         .col-text{
             height: 16rem;
         }    
+        .dev-cov{
+            height: auto;
+        }
     }
     
 
