@@ -455,6 +455,11 @@ footer .footer-text p .space{
         .dev-cov{
             height: auto;
         }
+        .dev-cov{
+            border-top: 0;
+            border-bottom: 0;
+        
+        }
     }
     
 
